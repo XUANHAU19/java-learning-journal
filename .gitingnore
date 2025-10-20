@@ -1,0 +1,10 @@
+# Bỏ qua tất cả file .class
+*.class
+
+# Bỏ qua thư mục build hoặc bin nếu có
+/bin/
+/build/
+
+# Bỏ qua file hệ thống VSCode
+.vscode/
+
