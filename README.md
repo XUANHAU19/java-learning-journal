@@ -35,3 +35,18 @@ Viết chương trình hỏi thời tiết và gợi ý phương tiện đi họ
 **Cảm nhận:**  
 Mình nhận ra code cũng giống cuộc sống: mỗi lựa chọn có một hành động khác nhau.  
 Điều kiện trong lập trình chính là cách để máy tính "suy nghĩ" như con người.
+
+
+## Ngày 4 – Vòng lặp & Giặt quần áo 🧺
+**Hôm nay mình học:**
+- Cấu trúc vòng lặp `for` trong Java.
+- Cách sử dụng `break` và `continue`.
+- Tư duy “lặp lại cho đến khi hết việc”.
+
+**Bài tập:**  
+Viết chương trình mô phỏng việc giặt quần áo từng món,  
+bỏ qua một món (vớ), và dừng khi máy giặt đầy (khăn mặt).
+
+**Cảm nhận:**  
+Vòng lặp giống như nhịp sống hằng ngày — mình làm nhiều việc lặp đi lặp lại,  
+nhưng biết dừng đúng lúc và bỏ qua điều không cần thiết thì mọi thứ nhẹ nhàng hơn.
